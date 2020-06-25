@@ -21,7 +21,7 @@ My credentials include a Bachelor of Information Systems and various certificati
 ## Projects:
 See the projects developed during the Data Science course in Practice under the guidance of master [Carlos Melo](https://sigmoidal.ai/):
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os dados do Airbnb - Lisboa:** https://bit.ly/31eAvSX
 
 
 ---
